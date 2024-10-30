@@ -8,6 +8,7 @@ public class App {
         String reversedText = StringUtils.reverse(text);
         System.out.println(reversedText);
         System.out.println("menayala");
+        System.out.println("sapi");
     }
 }
 
