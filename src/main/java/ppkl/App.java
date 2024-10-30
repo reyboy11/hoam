@@ -1,3 +1,5 @@
+package ppkl;
+
 import org.apache.commons.lang3.StringUtils;
 
 public class App {
@@ -5,5 +7,7 @@ public class App {
         String text = "Hello, Maven!";
         String reversedText = StringUtils.reverse(text);
         System.out.println(reversedText);
+        System.out.println("menayala");
     }
 }
+
